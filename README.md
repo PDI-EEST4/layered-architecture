@@ -1,25 +1,4 @@
-# {nombre del proyecto}
-
-**Descripción:**
-{breve explicación del proyecto}
-
-Integrantes:
-
-- {Apellido, Nombre} | [@username](https://github.com/username)
-- {Apellido, Nombre} | [@username](https://github.com/username)
-- {Apellido, Nombre} | [@username](https://github.com/username)
-- {Apellido, Nombre} | [@username](https://github.com/username)
-
-Proyecto institucional **E.E.S.T Nº4 de Berazategui**.
-
-## Elevator's Pitch
-
-- Para {cliente objetivo}
-- Quienes {necesidad y/o oportunidad}
-- El {nombre del proyecto} es un {categoría del producto}
-- Que {beneficio clave, razón para comprarlo}
-- Diferente a {otras soluciones existentes, por ejemplo...}
-- Nuestro proyecto {declaración de la diferencia}.
+# Layered Architecture
 
 ## Requisitos
 
